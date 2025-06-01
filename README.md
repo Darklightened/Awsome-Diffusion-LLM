@@ -22,6 +22,22 @@ A comprehensive list of papers about Diffusion-Language-Models
 
 
 ---
+### Multi-Modal Large Diffusion Language Models
+
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [MMaDA: Multimodal Large Diffusion Language Models](https://openreview.net/pdf?id=dj0TktJcVI](https://arxiv.org/abs/2505.15809))  | 2025 |  Arxiv |
+| [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/pdf/2407.07089](https://arxiv.org/abs/2505.16933)) | 2025 |  Arxiv |
+
+### Large Diffusion Language Models
+
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992) | 2025 |  Arxiv |
+| [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) | 2025 |  Arxiv |
+| [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) | 2025 |  Arxiv |
+| [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/abs/2505.10446) | 2025 |  Arxiv |
+
 
 ## Contact
 <!-- **Contact** -->
