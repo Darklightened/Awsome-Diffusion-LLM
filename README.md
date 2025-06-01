@@ -22,3 +22,12 @@ A comprehensive list of papers about Diffusion-Language-Models
 
 
 ---
+
+## Contact
+<!-- **Contact** -->
+
+We welcome all researchers to contribute to this repository.
+
+If you have a related paper that was not added to the library, please contact us.
+
+Email: jake630@snu.ac.kr / wjk9904@snu.ac.kr
