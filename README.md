@@ -40,6 +40,13 @@ A comprehensive list of papers about Large-Diffusion-Language-Models
 | [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) | 2025 |  Arxiv |
 | [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/abs/2505.10446) | 2025 |  Arxiv |
 
+### etc
+
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Diffusion Policy Policy Optimization](https://arxiv.org/abs/2409.00588) | 2024 |  Arxiv |
+
+
 
 ## Contact
 <!-- **Contact** -->
