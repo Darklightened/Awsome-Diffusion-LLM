@@ -1,8 +1,8 @@
-# Awsome-Large-Diffusion-Language-Models
+# Awsome-Large-Language-Diffusion-Models
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A comprehensive list of papers about Large-Diffusion-Language-Models
+A comprehensive list of papers about Large-Language-Diffusion-Models
 
 ---
 
@@ -20,7 +20,7 @@ A comprehensive list of papers about Large-Diffusion-Language-Models
 ---
 
 ## 💥 News 💥
-- 🔥🔥🔥 Awsome-Large-Diffusion-LM is now open!
+- 🔥🔥🔥 Awsome-Large-LDM is now open!
 
 
 ---
