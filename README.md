@@ -39,12 +39,7 @@ A comprehensive list of papers about Large-Diffusion-Language-Models
 | [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) | 2025 |  Arxiv |
 | [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) | 2025 |  Arxiv |
 | [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/abs/2505.10446) | 2025 |  Arxiv |
-
-### etc
-
-| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
-| --------------- | :----: | :----: | :----: |
-| [Diffusion Policy Policy Optimization](https://arxiv.org/abs/2409.00588) | 2024 |  Arxiv |
+| [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) | 2025 |  Arxiv |
 
 
 
