@@ -45,7 +45,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://openreview.net/forum?id=j1tSLYKwg8) | 2025 | ICLR | 127M~7B (GPT2, LLaMA2) |
 | [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992) | 2025 |  Arxiv | LLaDA-8B
 | [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) | 2025 |  Arxiv |
-| [Large Language Models to Diffusion Finetuning(https://arxiv.org/abs/2501.15781)] | 2025 | Arxiv |
+| [Large Language Models to Diffusion Finetuning](https://arxiv.org/abs/2501.15781) | 2025 | Arxiv |
 
 ### Caching
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
