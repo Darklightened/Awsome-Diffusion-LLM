@@ -31,7 +31,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 - [Multi-Modal Large Diffusion Language Models](#multi-modal-large-diffusion-language-models)
 - [Backgrounds](#backgrounds)
   - [Seminal Diffusion Papers](#seminal-diffusion-papers)
-  - [Diffusion Language Models <7B](#diffusion-language-models-7b)
+  - [Diffusion Language Models (<7B)](#diffusion-language-models-7b)
     
 ---
 ## Large Diffusion Language Models
