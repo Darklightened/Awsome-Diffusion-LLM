@@ -55,8 +55,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [MMaDA: Multimodal Large Diffusion Language Models](https://openreview.net/pdf?id=dj0TktJcVI](https://arxiv.org/abs/2505.15809))  | 2025 |  Arxiv |
-| [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/pdf/2407.07089](https://arxiv.org/abs/2505.16933)) | 2025 |  Arxiv |
+| [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/abs/2505.15809)  | 2025 |  Arxiv |
+| [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/abs/2505.16933) | 2025 |  Arxiv |
 
 ---
 ## Backgrounds
@@ -89,7 +89,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Latent Diffusion for Language Generation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b2a2bd5d5051ff6af52e1ef60aefd255-Abstract-Conference.html) | 2023 | NeurIPS | Latent |
 | [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://proceedings.mlr.press/v235/lou24a.html) | 2024 | ICML | Masked |
 | [SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control](https://aclanthology.org/2023.acl-long.647.pdf) | 2023 | ACL | Simplex, Blockwise |
-| [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7d866abba506e5a56335e4644ebe18f9-Abstract-Conference.html) | 2023 | NeuIPS | AR-like noise |
+| [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7d866abba506e5a56335e4644ebe18f9-Abstract-Conference.html) | 2023 | NeurIPS | AR-like noise |
 | [Likelihood-Based Diffusion Language Models](https://papers.nips.cc/paper_files/paper/2023/hash/35b5c175e139bff5f22a5361270fce87-Abstract-Conference.html) | 2023 | NeurIPS | Plaid1B
 | [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) | 2024 | ICLR | 1.1B |
 
