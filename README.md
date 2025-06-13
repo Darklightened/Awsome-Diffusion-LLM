@@ -36,18 +36,31 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 ---
 ## Large Diffusion Language Models
 
+### Scaling
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs](https://arxiv.org/abs/2305.14771) | 2023 | NAACL
+| [Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning](https://arxiv.org/abs/2308.12219) | 2023 | Arxiv |
 | [TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/abs/2502.13917) | 2025 | ACL | Adapted from Mistral-7B-v0.1 |
 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://openreview.net/forum?id=j1tSLYKwg8) | 2025 | ICLR | 127M~7B (GPT2, LLaMA2) |
-| [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) | 2025 |  ICLR |
 | [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992) | 2025 |  Arxiv | LLaDA-8B
 | [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) | 2025 |  Arxiv |
+| [Large Language Models to Diffusion Finetuning](https://arxiv.org/abs/2501.15781) | 2025 | Arxiv |
+
+### Caching
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/pdf/2505.21467) | 2025 |  Arxiv |
+| [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) | 2025 |  Arxiv |
 | [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) | 2025 |  Arxiv |
+
+### Reasoning
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
 | [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/abs/2505.10446) | 2025 |  Arxiv |
 | [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) | 2025 |  Arxiv |
-| [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion ](https://arxiv.org/pdf/2505.21467) | 2025 |  Arxiv |
-| [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) | 2025 |  Arxiv |
+| [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/abs/2402.07754) | 2024 | NeurIPS |
+
 
 ---
 
@@ -92,6 +105,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7d866abba506e5a56335e4644ebe18f9-Abstract-Conference.html) | 2023 | NeurIPS | AR-like noise |
 | [Likelihood-Based Diffusion Language Models](https://papers.nips.cc/paper_files/paper/2023/hash/35b5c175e139bff5f22a5361270fce87-Abstract-Conference.html) | 2023 | NeurIPS | Plaid1B
 | [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) | 2024 | ICLR | 1.1B |
+| [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) | 2025 |  ICLR |
 
 
 ## Contact
