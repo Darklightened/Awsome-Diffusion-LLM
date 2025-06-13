@@ -28,6 +28,9 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 ## Framework
 
 - [Large Diffusion Language Models](#large-diffusion-language-models)
+  - [Scaling](#scaling)
+  - [Caching](#chacing)
+  - [Reasoning](#reasoning)
 - [Multi-Modal Large Diffusion Language Models](#multi-modal-large-diffusion-language-models)
 - [Backgrounds](#backgrounds)
   - [Seminal Diffusion Papers](#seminal-diffusion-papers)
