@@ -109,6 +109,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Likelihood-Based Diffusion Language Models](https://papers.nips.cc/paper_files/paper/2023/hash/35b5c175e139bff5f22a5361270fce87-Abstract-Conference.html) | 2023 | NeurIPS | Plaid1B
 | [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) | 2024 | ICLR | 1.1B |
 | [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) | 2025 |  ICLR |
+| [The Diffusion Duality](https://arxiv.org/abs/2506.10892) | 2025 |  ICML |
 
 
 ## Contact
