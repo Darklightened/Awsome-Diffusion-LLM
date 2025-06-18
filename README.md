@@ -20,7 +20,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 ---
 
 ## 💥 News 💥
-- 🔥🔥🔥 Awesome-Large-LDM is now open!
+- 🔥🔥🔥 Awesome-LLDM is now open!
 
 
 ---
