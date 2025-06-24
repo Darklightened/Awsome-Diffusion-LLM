@@ -29,9 +29,10 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 
 - [Large Diffusion Language Models](#large-diffusion-language-models)
   - [Scaling](#scaling)
-  - [Caching](#chacing)
+  - [Caching](#accelerating)
   - [Reasoning](#reasoning)
-- [Multi-Modal Large Diffusion Language Models](#multi-modal-large-diffusion-language-models)
+  - [Others](#others)
+- [Large Multi-Modal Diffusion Models](#large-multi-modal-diffusion-models)
 - [Backgrounds](#backgrounds)
   - [Seminal Diffusion Papers](#seminal-diffusion-papers)
   - [Diffusion Language Models (<7B)](#diffusion-language-models-7b)
@@ -52,9 +53,10 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429) | 2025 | Arxiv | Long context scaling
 
 
-### Caching
+### Accelerating
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Accelerating Diffusion LLMs via Adaptive Parallel Decoding](https://arxiv.org/abs/2506.00413) | 2025 |  Arxiv |
 | [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/pdf/2505.21467) | 2025 |  Arxiv |
 | [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) | 2025 |  Arxiv |
 | [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) | 2025 |  Arxiv |
@@ -66,15 +68,22 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) | 2025 |  Arxiv |
 | [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/abs/2402.07754) | 2024 | NeurIPS |
 
+### Others
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/abs/2505.23061) | 2025 |  Arxiv | Constrained decoding
 
 ---
 
-## Multi-Modal Large Diffusion Language Models
+## Large Multi-Modal Diffusion Models
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/abs/2505.15809)  | 2025 |  Arxiv |
 | [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/abs/2505.16933) | 2025 |  Arxiv |
+| [Unified Multimodal Discrete Diffusion](https://arxiv.org/abs/2503.20853) | 2025 |  Arxiv |
+| [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990) | 2025 |  Arxiv |
+| [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839) | 2025 |  Arxiv |
 
 ---
 ## Backgrounds
