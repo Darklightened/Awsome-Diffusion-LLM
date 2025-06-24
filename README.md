@@ -26,21 +26,22 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 ---
 
 ## Framework
-
-- [Large Diffusion Language Models](#large-diffusion-language-models)
-  - [Scaling](#scaling)
-  - [Caching](#accelerating)
-  - [Reasoning](#reasoning)
-  - [Others](#others)
-- [Large Multi-Modal Diffusion Models](#large-multi-modal-diffusion-models)
-- [Backgrounds](#backgrounds)
-  - [Seminal Diffusion Papers](#seminal-diffusion-papers)
+- [Diffusion Language Models](#diffusion-language-models)
+  - [Large Diffusion Language Models (>7B)](#large-diffusion-language-models-7b))
+    - [Scaling](#scaling)
+    - [Caching](#accelerating)
+    - [Reasoning](#reasoning)
+    - [Others](#others)
   - [Diffusion Language Models (<7B)](#diffusion-language-models-7b)
+- [Multi-Modal Diffusion Models](#multi-modal-diffusion-models)
+- [Seminal Diffusion Papers](#seminal-diffusion-papers)
     
 ---
-## Large Diffusion Language Models
+## Diffusion Language Models
 
-### Scaling
+### Large Diffusion Language Models (>7B)
+
+#### Scaling
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs](https://arxiv.org/abs/2305.14771) | 2023 | NAACL
@@ -52,8 +53,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Large Language Models to Diffusion Finetuning](https://arxiv.org/abs/2501.15781) | 2025 | Arxiv |
 | [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429) | 2025 | Arxiv | Long context scaling
 
-
-### Accelerating
+#### Accelerating
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Accelerating Diffusion LLMs via Adaptive Parallel Decoding](https://arxiv.org/abs/2506.00413) | 2025 |  Arxiv |
@@ -61,24 +61,40 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) | 2025 |  Arxiv |
 | [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) | 2025 |  Arxiv |
 
-### Reasoning
+#### Reasoning
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/abs/2505.10446) | 2025 |  Arxiv |
 | [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) | 2025 |  Arxiv |
 | [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/abs/2402.07754) | 2024 | NeurIPS |
 
-### Others
+#### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/abs/2505.23061) | 2025 |  Arxiv | Constrained decoding
 
+### Diffusion Language Models (<7B)
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----:  
+| [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217) | 2022 | NeurIPS | Embedding |
+| [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933) | 2023 | ICLR | Embedding |
+| [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](https://aclanthology.org/2023.acl-long.248.pdf) | 2023 | ACL | Masked |
+| [Latent Diffusion for Language Generation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b2a2bd5d5051ff6af52e1ef60aefd255-Abstract-Conference.html) | 2023 | NeurIPS | Latent |
+| [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://proceedings.mlr.press/v235/lou24a.html) | 2024 | ICML | Masked |
+| [SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control](https://aclanthology.org/2023.acl-long.647.pdf) | 2023 | ACL | Simplex, Blockwise |
+| [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7d866abba506e5a56335e4644ebe18f9-Abstract-Conference.html) | 2023 | NeurIPS | AR-like noise |
+| [Likelihood-Based Diffusion Language Models](https://papers.nips.cc/paper_files/paper/2023/hash/35b5c175e139bff5f22a5361270fce87-Abstract-Conference.html) | 2023 | NeurIPS | Plaid1B
+| [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) | 2024 | ICLR | 1.1B |
+| [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) | 2025 |  ICLR |
+| [The Diffusion Duality](https://arxiv.org/abs/2506.10892) | 2025 |  ICML |
+
 ---
 
-## Large Multi-Modal Diffusion Models
+## Multi-Modal Diffusion Models
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces](https://www.arxiv.org/abs/2506.07903)  | 2025 |  ICML |
 | [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/abs/2505.15809)  | 2025 |  Arxiv |
 | [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/abs/2505.16933) | 2025 |  Arxiv |
 | [Unified Multimodal Discrete Diffusion](https://arxiv.org/abs/2503.20853) | 2025 |  Arxiv |
@@ -86,8 +102,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839) | 2025 |  Arxiv |
 
 ---
-## Backgrounds
-### Seminal Diffusion Papers
+## Seminal Diffusion Papers
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----:  
@@ -106,22 +121,6 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning](https://arxiv.org/abs/2208.04202) | 2023 | ICLR | Self-conditioning |
 | [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/abs/2202.00512) | 2022 | ICLR | Distillation |
 | [Consistency Models](https://arxiv.org/abs/2303.01469) | 2023 | ICML | 
-
-### Diffusion Language Models (<7B)
-| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
-| --------------- | :----: | :----: | :----:  
-| [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217) | 2022 | NeurIPS | Embedding |
-| [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933) | 2023 | ICLR | Embedding |
-| [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](https://aclanthology.org/2023.acl-long.248.pdf) | 2023 | ACL | Masked |
-| [Latent Diffusion for Language Generation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b2a2bd5d5051ff6af52e1ef60aefd255-Abstract-Conference.html) | 2023 | NeurIPS | Latent |
-| [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://proceedings.mlr.press/v235/lou24a.html) | 2024 | ICML | Masked |
-| [SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control](https://aclanthology.org/2023.acl-long.647.pdf) | 2023 | ACL | Simplex, Blockwise |
-| [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7d866abba506e5a56335e4644ebe18f9-Abstract-Conference.html) | 2023 | NeurIPS | AR-like noise |
-| [Likelihood-Based Diffusion Language Models](https://papers.nips.cc/paper_files/paper/2023/hash/35b5c175e139bff5f22a5361270fce87-Abstract-Conference.html) | 2023 | NeurIPS | Plaid1B
-| [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) | 2024 | ICLR | 1.1B |
-| [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) | 2025 |  ICLR |
-| [The Diffusion Duality](https://arxiv.org/abs/2506.10892) | 2025 |  ICML |
-
 
 ## Contact
 <!-- **Contact** -->
