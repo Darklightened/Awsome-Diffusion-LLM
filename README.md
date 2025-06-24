@@ -25,6 +25,15 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 
 ---
 
+## ⭐️ Useful Resources (Blogs & Technical Reports)
+
+- [Gemini Diffusion](https://deepmind.google/models/gemini-diffusion/)
+- [Dream-7B](https://hkunlp.github.io/blog/2025/dream/)    
+- [What are Diffusion Language Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)  
+- [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)  
+
+---
+
 ## ⚙️ Framework
 - [Diffusion Language Models](#diffusion-language-models)
   - [Large Diffusion Language Models (>7B)](#large-diffusion-language-models-7b))
