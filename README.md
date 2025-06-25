@@ -49,10 +49,12 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 ---
 ## Survey Papers
 
-## Diffusion Language Models
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Discrete Diffusion in Large Language and Multimodal Models: A Survey](https://arxiv.org/pdf/2506.13759) | 2025| Arxiv
+
+
+## Diffusion Language Models
 
 ### Large Diffusion Language Models (>7B)
 
