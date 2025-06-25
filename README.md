@@ -96,6 +96,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) | 2024 | ICLR | 1.1B |
 | [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) | 2025 |  ICLR |
 | [The Diffusion Duality](https://arxiv.org/abs/2506.10892) | 2025 |  ICML |
+| [Generalized Interpolating Discrete Diffusion](https://openreview.net/pdf?id=rvZv7sDPV9) | 2025 |  ICML |
+| [Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions](https://arxiv.org/pdf/2502.06768) | 2025 |  ICML |
 | [Esoteric Language Models](https://arxiv.org/pdf/2506.01928) | 2025 |  Arxiv |
 
 ---
