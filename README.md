@@ -36,7 +36,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 
 ## ⚙️ Framework
 - [Diffusion Language Models](#diffusion-language-models)
-  - [Large Diffusion Language Models (>7B)](#large-diffusion-language-models-7b))
+  - [Large Diffusion Language Models (>7B)](#large-diffusion-language-models-7b)
     - [Scaling](#scaling)
     - [Caching](#accelerating)
     - [Reasoning](#reasoning)
