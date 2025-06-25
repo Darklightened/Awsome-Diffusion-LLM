@@ -112,6 +112,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Unified Multimodal Discrete Diffusion](https://arxiv.org/abs/2503.20853) | 2025 |  Arxiv |
 | [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990) | 2025 |  Arxiv |
 | [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839) | 2025 |  Arxiv |
+| [Dual Diffusion for Unified Image Generation and Understanding](https://arxiv.org/pdf/2501.00289) | 2025 |  Arxiv |
+| [Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model](https://arxiv.org/pdf/2505.23606) | 2025 |  Arxiv |
 
 ---
 ## Seminal Diffusion Papers
