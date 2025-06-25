@@ -35,6 +35,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 ---
 
 ## ⚙️ Framework
+- [Survey Papers](#survey-papers)
 - [Diffusion Language Models](#diffusion-language-models)
   - [Large Diffusion Language Models (>7B)](#large-diffusion-language-models-7b)
     - [Scaling](#scaling)
@@ -46,7 +47,12 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 - [Seminal Diffusion Papers](#seminal-diffusion-papers)
     
 ---
+## Survey Papers
+
 ## Diffusion Language Models
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Discrete Diffusion in Large Language and Multimodal Models: A Survey](https://arxiv.org/pdf/2506.13759) | 2025| Arxiv
 
 ### Large Diffusion Language Models (>7B)
 
