@@ -122,6 +122,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839) | 2025 |  Arxiv |
 | [Dual Diffusion for Unified Image Generation and Understanding](https://arxiv.org/pdf/2501.00289) | 2025 |  Arxiv |
 | [Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model](https://arxiv.org/pdf/2505.23606) | 2025 |  Arxiv |
+| [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) | 2025 |  Arxiv |
 
 ---
 ## Seminal Diffusion Papers
