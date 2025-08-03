@@ -90,6 +90,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | --------------- | :----: | :----: | :----: |
 | [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/abs/2505.23061) | 2025 |  Arxiv | Constrained decoding
 | [DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639) | 2025 | Arxiv | Coder
+| [Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference](https://lf3-static.bytednsdoc.com/obj/eden-cn/hyvsmeh7uhobf/sdiff_updated.pdf) | 2025 | Arxiv | Coder
 
 ### Diffusion Language Models (<7B)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
