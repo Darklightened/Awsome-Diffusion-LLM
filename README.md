@@ -113,6 +113,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Generalized Interpolating Discrete Diffusion](https://openreview.net/pdf?id=rvZv7sDPV9) | 2025 |  ICML |
 | [Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions](https://arxiv.org/pdf/2502.06768) | 2025 |  ICML |
 | [Esoteric Language Models](https://arxiv.org/pdf/2506.01928) | 2025 |  Arxiv |
+| [Reinforced Context Order Recovery for Adaptive Reasoning and Planning](https://arxiv.org/pdf/2508.13070) | 2025 |  Arxiv | 
+| [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/pdf/2410.14157) | 2025 |  ICLR |
 
 ---
 
