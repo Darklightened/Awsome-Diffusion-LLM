@@ -78,7 +78,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/pdf/2505.21467) | 2025 |  Arxiv |
 | [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) | 2025 |  Arxiv |
 | [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) | 2025 |  Arxiv |
-| [Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs](https://arxiv.org/pdf/2507.18578?) | 2025 |  Arxiv |
+| [Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs](https://arxiv.org/pdf/2507.18578?) | 2025 | Arxiv |
+| [Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles](https://arxiv.org/pdf/2506.10848)| 2025 | Arxiv | 
 
 #### Reasoning
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
