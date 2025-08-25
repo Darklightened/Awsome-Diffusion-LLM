@@ -70,6 +70,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) | 2025 |  Arxiv |
 | [Large Language Models to Diffusion Finetuning](https://arxiv.org/abs/2501.15781) | 2025 | Arxiv |
 | [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429) | 2025 | Arxiv | Long context scaling
+| [Dream 7B: Diffusion Large Language Models](https://arxiv.org/abs/2508.15487v1)| 2025 | Arxiv
 
 #### Accelerating
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
