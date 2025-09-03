@@ -51,8 +51,9 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Discrete Diffusion in Large Language and Multimodal Models: A Survey](https://arxiv.org/pdf/2506.13759) | 2025| Arxiv
-| [Diffusion-based Large Language Models Survey](https://www.researchgate.net/profile/Junhao-Song-3/publication/394262235_Diffusion-based_Large_Language_Models_Survey/links/68901ee37b62e240dd32d2af/Diffusion-based-Large-Language-Models-Survey.pdf) | 2025| Arxiv
+| [Discrete Diffusion in Large Language and Multimodal Models: A Survey](https://arxiv.org/pdf/2506.13759) | 2025 | Arxiv
+| [Diffusion-based Large Language Models Survey](https://www.researchgate.net/profile/Junhao-Song-3/publication/394262235_Diffusion-based_Large_Language_Models_Survey/links/68901ee37b62e240dd32d2af/Diffusion-based-Large-Language-Models-Survey.pdf) | 2025 | Arxiv
+| [A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models](https://arxiv.org/pdf/2508.08712v2) | 2025 | Arxiv
 
 
 ## Diffusion Language Models
@@ -90,6 +91,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/abs/2402.07754) | 2024 | NeurIPS |
 | [wd1: Weighted Policy Optimization for Reasoning in Diffusion Language Models](https://arxiv.org/pdf/2507.08838) | 2025 | Arxiv |
 | [Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs](https://arxiv.org/pdf/2508.10736) | 2025 | Arxiv |
+| [Review, Remask, Refine (R3): Process-Guided Block Diffusion for Text Generation](https://arxiv.org/pdf/2507.08018v1) | 2025 | ICML
 
 #### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -97,7 +99,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/abs/2505.23061) | 2025 |  Arxiv | Constrained decoding
 | [DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639) | 2025 | Arxiv | Coder
 | [Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference](https://lf3-static.bytednsdoc.com/obj/eden-cn/hyvsmeh7uhobf/sdiff_updated.pdf) | 2025 | Arxiv | Coder
-|[Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models](https://arxiv.org/pdf/2508.09138v1) | 2025 | Arxiv | 
+| [Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models](https://arxiv.org/pdf/2508.09138v1) | 2025 | Arxiv | 
+| [The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs](https://arxiv.org/pdf/2507.11097v1) | 2025 | Arxiv |
 
 ### Diffusion Language Models (<7B)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -111,13 +114,14 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7d866abba506e5a56335e4644ebe18f9-Abstract-Conference.html) | 2023 | NeurIPS | AR-like noise |
 | [Likelihood-Based Diffusion Language Models](https://papers.nips.cc/paper_files/paper/2023/hash/35b5c175e139bff5f22a5361270fce87-Abstract-Conference.html) | 2023 | NeurIPS | Plaid1B
 | [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) | 2024 | ICLR | 1.1B |
-| [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) | 2025 |  ICLR |
-| [The Diffusion Duality](https://arxiv.org/abs/2506.10892) | 2025 |  ICML |
-| [Generalized Interpolating Discrete Diffusion](https://openreview.net/pdf?id=rvZv7sDPV9) | 2025 |  ICML |
-| [Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions](https://arxiv.org/pdf/2502.06768) | 2025 |  ICML |
+| [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) | 2025 | ICLR |
+| [The Diffusion Duality](https://arxiv.org/abs/2506.10892) | 2025 | ICML |
+| [Generalized Interpolating Discrete Diffusion](https://openreview.net/pdf?id=rvZv7sDPV9) | 2025 | ICML |
+| [Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions](https://arxiv.org/pdf/2502.06768) | 2025 | ICML |
 | [Esoteric Language Models](https://arxiv.org/pdf/2506.01928) | 2025 |  Arxiv |
-| [Reinforced Context Order Recovery for Adaptive Reasoning and Planning](https://arxiv.org/pdf/2508.13070) | 2025 |  Arxiv | 
-| [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/pdf/2410.14157) | 2025 |  ICLR |
+| [Reinforced Context Order Recovery for Adaptive Reasoning and Planning](https://arxiv.org/pdf/2508.13070) | 2025 | Arxiv | 
+| [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/pdf/2410.14157) | 2025 | ICLR |
+| [Your Absorbing Discrete Diffusion Secretly Models the Bayesian Posterior](https://arxiv.org/pdf/2507.07586) | 2025 | ArXiv 
 
 ---
 
