@@ -124,6 +124,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/pdf/2410.14157) | 2025 | ICLR |
 | [Your Absorbing Discrete Diffusion Secretly Models the Bayesian Posterior](https://arxiv.org/pdf/2507.07586) | 2025 | ArXiv 
 | [Any-Order Flexible Length Masked Diffusion](https://arxiv.org/pdf/2509.01025) | 2025 | Arxiv
+| [Edit Flows: Flow Matching with Edit Operations](https://arxiv.org/pdf/2506.09018) | 2025 | Arxiv
 ---
 
 ## Multi-Modal Diffusion Models
