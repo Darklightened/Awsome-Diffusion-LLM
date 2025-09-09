@@ -102,7 +102,6 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference](https://lf3-static.bytednsdoc.com/obj/eden-cn/hyvsmeh7uhobf/sdiff_updated.pdf) | 2025 | Arxiv | Coder
 | [Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models](https://arxiv.org/pdf/2508.09138v1) | 2025 | Arxiv | 
 | [The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs](https://arxiv.org/pdf/2507.11097v1) | 2025 | Arxiv |
-| [Any-Order Flexible Length Masked Diffusion](https://arxiv.org/pdf/2509.01025) | 2025 | Arxiv
 
 ### Diffusion Language Models (<7B)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
