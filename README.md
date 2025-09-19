@@ -92,7 +92,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/abs/2402.07754) | 2024 | NeurIPS |
 | [wd1: Weighted Policy Optimization for Reasoning in Diffusion Language Models](https://arxiv.org/pdf/2507.08838) | 2025 | Arxiv |
 | [Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs](https://arxiv.org/pdf/2508.10736) | 2025 | Arxiv |
-| [Review, Remask, Refine (R3): Process-Guided Block Diffusion for Text Generation](https://arxiv.org/pdf/2507.08018v1) | 2025 | ICML
+| [Review, Remask, Refine (R3): Process-Guided Block Diffusion for Text Generation](https://arxiv.org/pdf/2507.08018v1) | 2025 | ICML |
+| [Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models](https://arxiv.org/pdf/2509.06949) | 2025 | Arxiv |
 
 #### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
