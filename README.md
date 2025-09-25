@@ -105,6 +105,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs](https://arxiv.org/pdf/2507.11097v1) | 2025 | Arxiv |
 | [Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072) | 2025 | Arxiv | VLA
 | [LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/abs/2509.06932) | 2025 | Arxiv | VLA
+| [Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation](https://arxiv.org/abs/2509.11252) | 2025 | Arxiv | Coder
 
 ### Diffusion Language Models (<7B)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
