@@ -107,6 +107,10 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/abs/2509.06932) | 2025 | Arxiv | VLA
 | [Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation](https://arxiv.org/abs/2509.11252) | 2025 | Arxiv | Coder
 | [Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](https://arxiv.org/pdf/2508.14896) | 2025 | Arxiv | Quantization
+| [Sequential Diffusion Language Models](https://www.arxiv.org/abs/2509.24007) | 2025 | Arxiv |
+| [SparseD: Sparse Attention for Diffusion Language Models](https://arxiv.org/abs/2509.24014) | 2025 | Arxiv | Sparse Attention
+| [LLaDA-MoE: A Sparse MoE Diffusion Language Model](https://arxiv.org/abs/2509.24389v1) | 2025 | Arxiv | MoE
+
 
 ### Diffusion Language Models (<7B)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
