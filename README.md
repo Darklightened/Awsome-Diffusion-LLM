@@ -83,6 +83,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) | 2025 |  Arxiv |
 | [Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs](https://arxiv.org/pdf/2507.18578?) | 2025 | Arxiv |
 | [Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles](https://arxiv.org/pdf/2506.10848)| 2025 | Arxiv | 
+| [AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size](https://arxiv.org/pdf/2509.26432)| 2025 | Arxiv | 
 
 #### Reasoning
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -94,6 +95,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs](https://arxiv.org/pdf/2508.10736) | 2025 | Arxiv |
 | [Review, Remask, Refine (R3): Process-Guided Block Diffusion for Text Generation](https://arxiv.org/pdf/2507.08018v1) | 2025 | ICML |
 | [Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models](https://arxiv.org/pdf/2509.06949) | 2025 | Arxiv |
+| [DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://arxiv.org/pdf/2510.02212) | 2025 | Arxiv |
 
 #### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -110,6 +112,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Sequential Diffusion Language Models](https://www.arxiv.org/abs/2509.24007) | 2025 | Arxiv |
 | [SparseD: Sparse Attention for Diffusion Language Models](https://arxiv.org/abs/2509.24014) | 2025 | Arxiv | Sparse Attention
 | [LLaDA-MoE: A Sparse MoE Diffusion Language Model](https://arxiv.org/abs/2509.24389v1) | 2025 | Arxiv | MoE
+| [dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought](https://arxiv.org/pdf/2509.25681) | 2025 | Arxiv | VLA
+| [Test-Time Anchoring for Discrete Diffusion Posterior Sampling](https://arxiv.org/pdf/2510.02291) | 2025 | Arxiv | Sampling
 
 
 ### Diffusion Language Models (<7B)
