@@ -138,7 +138,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Your Absorbing Discrete Diffusion Secretly Models the Bayesian Posterior](https://arxiv.org/pdf/2507.07586) | 2025 | ArXiv 
 | [Any-Order Flexible Length Masked Diffusion](https://arxiv.org/pdf/2509.01025) | 2025 | Arxiv
 | [Edit Flows: Flow Matching with Edit Operations](https://arxiv.org/pdf/2506.09018) | 2025 | Arxiv
-|[DLM-One: Diffusion Language Models for One-Step Sequence Generation](https://arxiv.org/pdf/2506.00290) | 2025 | Arxiv
+| [DLM-One: Diffusion Language Models for One-Step Sequence Generation](https://arxiv.org/pdf/2506.00290) | 2025 | Arxiv
+| [Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/pdf/2406.04329) | 2024 | NeurIPS
 ---
 
 ## Multi-Modal Diffusion Models
