@@ -85,6 +85,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles](https://arxiv.org/pdf/2506.10848)| 2025 | Arxiv | 
 | [AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size](https://arxiv.org/pdf/2509.26432)| 2025 | Arxiv | 
 | [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://arxiv.org/pdf/2509.26328)| 2025 | Arxiv | 
+| [Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding](https://arxiv.org/pdf/2509.18085)| 2025 | Arxiv | 
 
 #### Reasoning
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -98,6 +99,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models](https://arxiv.org/pdf/2509.06949) | 2025 | Arxiv |
 | [DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://arxiv.org/pdf/2510.02212) | 2025 | Arxiv |
 | [Principled and Tractable RL for Reasoning with Diffusion Language Models](https://arxiv.org/pdf/2510.04019) | 2025 | Arxiv |
+| [Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/pdf/2510.08554) | 2025 | Arxiv |
 
 #### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
