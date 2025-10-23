@@ -86,6 +86,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size](https://arxiv.org/pdf/2509.26432)| 2025 | Arxiv | 
 | [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://arxiv.org/pdf/2509.26328)| 2025 | Arxiv | 
 | [Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding](https://arxiv.org/pdf/2509.18085)| 2025 | Arxiv | 
+| [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/abs/2410.21035)| 2025 | ICLR | 
 
 #### Reasoning
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -100,6 +101,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://arxiv.org/pdf/2510.02212) | 2025 | Arxiv |
 | [Principled and Tractable RL for Reasoning with Diffusion Language Models](https://arxiv.org/pdf/2510.04019) | 2025 | Arxiv |
 | [Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/pdf/2510.08554) | 2025 | Arxiv |
+| [Improving Discrete Diffusion Unmasking Policies Beyond Explicit Reference Policies](https://arxiv.org/abs/2510.05725) | 2025 | Arxiv |
+| [d2: Improved Techniques for Training Reasoning Diffusion Language Models](https://www.arxiv.org/abs/2509.21474) | 2025 | Arxiv |
 
 #### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -121,6 +124,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [What Makes Diffusion Language Models Super Data Learners?](https://arxiv.org/pdf/2510.04071) | 2025 | Arxiv
 | [Why mask diffusion does not work](https://arxiv.org/pdf/2510.03289) | 2025 | Arxiv
 | [DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding](https://www.arxiv.org/pdf/2510.02358) | 2025 | Arxiv
+| [Think While You Generate: Discrete Diffusion with Planned Denoising](https://arxiv.org/abs/2410.06264) | 2025 | ICLR
 
 
 ### Diffusion Language Models (<7B)
