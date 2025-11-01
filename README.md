@@ -103,6 +103,14 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/pdf/2510.08554) | 2025 | Arxiv |
 | [Improving Discrete Diffusion Unmasking Policies Beyond Explicit Reference Policies](https://arxiv.org/abs/2510.05725) | 2025 | Arxiv |
 | [d2: Improved Techniques for Training Reasoning Diffusion Language Models](https://www.arxiv.org/abs/2509.21474) | 2025 | Arxiv |
+| [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/abs/2509.23924) | 2025 | Arxiv |
+| [Inpainting-Guided Policy Optimization for Diffusion Large Language Models](https://arxiv.org/abs/2509.10396) | 2025 | Arxiv |
+| [Beyond Surface Reasoning: Unveiling the True Long Chain-of-Thought Capacity of Diffusion Large Language Models](https://arxiv.org/abs/2510.09544) | 2025 | Arxiv |
+| [Inpainting-Guided Policy Optimization for Diffusion Large Language Models](https://arxiv.org/abs/2509.10396) | 2025 | Arxiv |
+| [Step-Aware Policy Optimization for Reasoning in Diffusion Large Language Models](https://arxiv.org/abs/2510.01544) | 2025 | Arxiv |
+| [MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization](https://arxiv.org/abs/2510.21473) | 2025 | Arxiv |
+| [Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization](https://arxiv.org/abs/2510.08233) | 2025 | Arxiv |
+| [Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models](https://arxiv.org/abs/2510.11683) | 2025 | Arxiv |
 
 #### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
