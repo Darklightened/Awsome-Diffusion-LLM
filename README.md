@@ -73,6 +73,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Large Language Models to Diffusion Finetuning](https://arxiv.org/abs/2501.15781) | 2025 | Arxiv |
 | [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429) | 2025 | Arxiv | Long context scaling
 | [Dream 7B: Diffusion Large Language Models](https://arxiv.org/abs/2508.15487v1)| 2025 | Arxiv
+| [UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models](https://arxiv.org/abs/2510.10481)| 2025 | Arxiv
 
 #### Accelerating
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -87,8 +88,12 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://arxiv.org/pdf/2509.26328)| 2025 | Arxiv | 
 | [Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding](https://arxiv.org/pdf/2509.18085)| 2025 | Arxiv | 
 | [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/abs/2410.21035)| 2025 | ICLR | 
+| [dParallel: Learnable Parallel Decoding for dLLMs](https://arxiv.org/abs/2509.26488)| 2025 | Arxiv | 
+| [d^2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching](https://arxiv.org/abs/2509.23094)| 2025 | Arxiv | 
+| [Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731)| 2025 | Arxiv | 
+| [Learning to Parallel: Accelerating Diffusion Large Language Models via Learnable Parallel Decoding](https://arxiv.org/abs/2509.25188)| 2025 | Arxiv | 
 
-#### Reasoning
+#### Reasoning & Alignment
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/abs/2505.10446) | 2025 |  Arxiv |
@@ -111,6 +116,14 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization](https://arxiv.org/abs/2510.21473) | 2025 | Arxiv |
 | [Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization](https://arxiv.org/abs/2510.08233) | 2025 | Arxiv |
 | [Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models](https://arxiv.org/abs/2510.11683) | 2025 | Arxiv |
+| [Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](https://arxiv.org/abs/2510.03206) | 2025 | Arxiv |
+| [SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://arxiv.org/abs/2510.09541) | 2025 | Arxiv |
+| [LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](https://arxiv.org/abs/2510.04573) | 2025 | Arxiv |
+| [TR2-D2: Tree Search Guided Trajectory-Aware Fine-Tuning for Discrete Diffusion](https://arxiv.org/abs/2509.25171) | 2025 | Arxiv |
+| [MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models](https://arxiv.org/abs/2508.13148) | 2025 | Arxiv |
+| [Loopholing Discrete Diffusion: Deterministic Bypass of the Sampling Wall](https://arxiv.org/abs/2510.19304) | 2025 | Arxiv |
+| [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/abs/2509.25604) | 2025 | Arxiv |
+| [Preference-Based Alignment of Discrete Diffusion Models](https://arxiv.org/abs/2503.08295) | 2025 | Arxiv |
 
 #### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -133,6 +146,10 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Why mask diffusion does not work](https://arxiv.org/pdf/2510.03289) | 2025 | Arxiv
 | [DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding](https://www.arxiv.org/pdf/2510.02358) | 2025 | Arxiv
 | [Think While You Generate: Discrete Diffusion with Planned Denoising](https://arxiv.org/abs/2410.06264) | 2025 | ICLR
+| [Diffusion Language Models Know the Answer Before Decoding](https://arxiv.org/abs/2508.19982) | 2025 | Arxiv
+| [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/abs/2505.14455) | 2025 | Arxiv
+| [Next Semantic Scale Prediction via Hierarchical Diffusion Language Models](https://arxiv.org/abs/2510.08632) | 2025 | Arxiv
+
 
 
 ### Diffusion Language Models (<7B)
@@ -174,6 +191,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Dual Diffusion for Unified Image Generation and Understanding](https://arxiv.org/pdf/2501.00289) | 2025 |  Arxiv |
 | [Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model](https://arxiv.org/pdf/2505.23606) | 2025 |  Arxiv |
 | [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) | 2025 |  Arxiv |
+| [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://arxiv.org/abs/2510.06308) | 2025 |  Arxiv |
 
 ---
 ## Seminal Diffusion Papers
