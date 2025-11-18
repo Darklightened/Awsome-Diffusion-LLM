@@ -192,6 +192,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model](https://arxiv.org/pdf/2505.23606) | 2025 |  Arxiv |
 | [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) | 2025 |  Arxiv |
 | [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://arxiv.org/abs/2510.06308) | 2025 |  Arxiv |
+| [MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation](https://arxiv.org/pdf/2511.09611) | 2025 |  Arxiv |
 
 ---
 ## Seminal Diffusion Papers
