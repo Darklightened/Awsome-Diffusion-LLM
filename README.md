@@ -123,6 +123,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [CDLM: Consistency Diffusion Language Models For Faster Sampling](https://arxiv.org/abs/2511.19269)| 2025 | Arxiv | 
 
 #### Sparsity
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
 | [Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731)| 2025 | Arxiv | 
 | [SparseD: Sparse Attention for Diffusion Language Models](https://arxiv.org/abs/2509.24014)| 2025 | Arxiv | 
 
