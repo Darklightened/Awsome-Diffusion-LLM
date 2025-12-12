@@ -40,7 +40,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 - [Diffusion Language Models](#diffusion-language-models)
   - [Large Diffusion Language Models (>7B)](#large-diffusion-language-models-7b)
     - [Scaling](#scaling)
-    - [Caching](#accelerating)
+    - [Accelerating](#accelerating)
     - [Reasoning](#reasoning)
     - [Others](#others)
   - [Diffusion Language Models (<7B)](#diffusion-language-models-7b)
