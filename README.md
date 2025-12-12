@@ -56,9 +56,10 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Diffusion-based Large Language Models Survey](https://www.researchgate.net/profile/Junhao-Song-3/publication/394262235_Diffusion-based_Large_Language_Models_Survey/links/68901ee37b62e240dd32d2af/Diffusion-based-Large-Language-Models-Survey.pdf) | 2025 | Arxiv
 | [A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models](https://arxiv.org/pdf/2508.08712v2) | 2025 | Arxiv
 
-
+---
 ## Large Diffusion Language Models (>7B)
 
+---
 ### Scaling
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
@@ -73,6 +74,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Dream 7B: Diffusion Large Language Models](https://arxiv.org/abs/2508.15487v1)| 2025 | Arxiv |
 | [UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models](https://arxiv.org/abs/2510.10481)| 2025 | Arxiv |
 
+---
 ### AR-to-Diffusion Adaptation
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
@@ -80,6 +82,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/abs/2510.06303) | 2025 | Arxiv |
 | [From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776) | 2025 | Arxiv |
 
+---
 ### Accelerating
 
 #### Caching
@@ -123,7 +126,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731)| 2025 | Arxiv | 
 | [SparseD: Sparse Attention for Diffusion Language Models](https://arxiv.org/abs/2509.24014)| 2025 | Arxiv | 
 
-
+---
 ### Reasoning & Alignment
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
@@ -156,6 +159,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/abs/2509.25604) | 2025 | Arxiv |
 | [Preference-Based Alignment of Discrete Diffusion Models](https://arxiv.org/abs/2503.08295) | 2025 | Arxiv |
 
+---
 ### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
@@ -182,7 +186,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Next Semantic Scale Prediction via Hierarchical Diffusion Language Models](https://arxiv.org/abs/2510.08632) | 2025 | Arxiv
 
 
-
+---
 ## Diffusion Language Models (<7B)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----:  
