@@ -57,11 +57,9 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models](https://arxiv.org/pdf/2508.08712v2) | 2025 | Arxiv
 
 
-## Diffusion Language Models
+## Large Diffusion Language Models (>7B)
 
-### Large Diffusion Language Models (>7B)
-
-#### Scaling
+### Scaling
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs](https://arxiv.org/abs/2305.14771) | 2023 | NAACL
@@ -71,29 +69,62 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992) | 2025 |  Arxiv | LLaDA-8B
 | [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) | 2025 |  Arxiv |
 | [Large Language Models to Diffusion Finetuning](https://arxiv.org/abs/2501.15781) | 2025 | Arxiv |
-| [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429) | 2025 | Arxiv | Long context scaling
-| [Dream 7B: Diffusion Large Language Models](https://arxiv.org/abs/2508.15487v1)| 2025 | Arxiv
-| [UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models](https://arxiv.org/abs/2510.10481)| 2025 | Arxiv
+| [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429) | 2025 | Arxiv | Long context scaling |
+| [Dream 7B: Diffusion Large Language Models](https://arxiv.org/abs/2508.15487v1)| 2025 | Arxiv |
+| [UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models](https://arxiv.org/abs/2510.10481)| 2025 | Arxiv |
 
-#### Accelerating
+### AR-to-Diffusion Adaptation
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://openreview.net/forum?id=j1tSLYKwg8) | 2025 | ICLR | 127M~7B (GPT2, LLaMA2) |
+| [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/abs/2510.06303) | 2025 | Arxiv |
+| [From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776) | 2025 | Arxiv |
+
+### Accelerating
+
+#### Caching
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/pdf/2505.21467) | 2025 |  Arxiv |
+| [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) | 2025 |  Arxiv |
+| [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) | 2025 |  Arxiv |
+| [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://arxiv.org/pdf/2509.26328)| 2025 | Arxiv | 
+| [d^2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching](https://arxiv.org/abs/2509.23094)| 2025 | Arxiv | 
+| [Attention Is All You Need for KV Cache in Diffusion LLMs](https://arxiv.org/abs/2510.14973)| 2025 | Arxiv | 
+
+
+#### Decoding
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Accelerating Diffusion LLMs via Adaptive Parallel Decoding](https://arxiv.org/abs/2506.00413) | 2025 |  Arxiv |
-| [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/pdf/2505.21467) | 2025 |  Arxiv |
-| [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/pdf/2505.15781) | 2025 |  Arxiv |
 | [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) | 2025 |  Arxiv |
 | [Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs](https://arxiv.org/pdf/2507.18578?) | 2025 | Arxiv |
 | [Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles](https://arxiv.org/pdf/2506.10848)| 2025 | Arxiv | 
 | [AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size](https://arxiv.org/pdf/2509.26432)| 2025 | Arxiv | 
 | [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://arxiv.org/pdf/2509.26328)| 2025 | Arxiv | 
 | [Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding](https://arxiv.org/pdf/2509.18085)| 2025 | Arxiv | 
-| [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/abs/2410.21035)| 2025 | ICLR | 
 | [dParallel: Learnable Parallel Decoding for dLLMs](https://arxiv.org/abs/2509.26488)| 2025 | Arxiv | 
-| [d^2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching](https://arxiv.org/abs/2509.23094)| 2025 | Arxiv | 
-| [Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731)| 2025 | Arxiv | 
 | [Learning to Parallel: Accelerating Diffusion Large Language Models via Learnable Parallel Decoding](https://arxiv.org/abs/2509.25188)| 2025 | Arxiv | 
+| [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/abs/2510.04147)| 2025 | Arxiv | 
+| [CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits](https://arxiv.org/abs/2510.06133)| 2025 | Arxiv | 
+| [Accelerating Diffusion LLM Inference via Local Determinism Propagation](https://arxiv.org/abs/2510.07081)| 2025 | Arxiv | 
+| [Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model](https://arxiv.org/abs/2510.18165)| 2025 | Arxiv | 
+| [SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding](https://arxiv.org/abs/2511.00606)| 2025 | Arxiv | 
+| [Fast-Decoding Diffusion Language Models via Progress-Aware Confidence Schedules](https://arxiv.org/abs/2512.02892)| 2025 | Arxiv | 
 
-#### Reasoning & Alignment
+#### Distillation
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/abs/2410.21035)| 2025 | ICLR | 
+| [FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Model](https://arxiv.org/abs/2509.20624)| 2025 | Arxiv | 
+| [CDLM: Consistency Diffusion Language Models For Faster Sampling](https://arxiv.org/abs/2511.19269)| 2025 | Arxiv | 
+
+#### Sparsity
+| [Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731)| 2025 | Arxiv | 
+| [SparseD: Sparse Attention for Diffusion Language Models](https://arxiv.org/abs/2509.24014)| 2025 | Arxiv | 
+
+
+### Reasoning & Alignment
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/abs/2505.10446) | 2025 |  Arxiv |
@@ -125,7 +156,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/abs/2509.25604) | 2025 | Arxiv |
 | [Preference-Based Alignment of Discrete Diffusion Models](https://arxiv.org/abs/2503.08295) | 2025 | Arxiv |
 
-#### Others
+### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/abs/2505.23061) | 2025 |  Arxiv | Constrained decoding
@@ -152,7 +183,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 
 
 
-### Diffusion Language Models (<7B)
+## Diffusion Language Models (<7B)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----:  
 | [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217) | 2022 | NeurIPS | Embedding |
