@@ -80,7 +80,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | --------------- | :----: | :----: | :----: |
 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://openreview.net/forum?id=j1tSLYKwg8) | 2025 | ICLR | 127M~7B (GPT2, LLaMA2) |
 | [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/abs/2510.06303) | 2025 | Arxiv |
-| [From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776) | 2025 | Arxiv |
+| [From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776) | 2025 | Arxiv 
 
 ---
 ### Accelerating
@@ -230,6 +230,8 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) | 2025 |  Arxiv |
 | [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://arxiv.org/abs/2510.06308) | 2025 |  Arxiv |
 | [MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation](https://arxiv.org/pdf/2511.09611) | 2025 |  Arxiv |
+| [DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713) | 2025 |  Arxiv |
+
 
 ---
 ## Seminal Diffusion Papers
