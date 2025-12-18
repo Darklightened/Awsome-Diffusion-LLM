@@ -80,7 +80,7 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | --------------- | :----: | :----: | :----: |
 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://openreview.net/forum?id=j1tSLYKwg8) | 2025 | ICLR | 127M~7B (GPT2, LLaMA2) |
 | [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/abs/2510.06303) | 2025 | Arxiv |
-| [From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776) | 2025 | Arxiv 
+| [From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776) | 2025 | Arxiv |
 
 ---
 ### Accelerating
