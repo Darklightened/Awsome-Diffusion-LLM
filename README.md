@@ -162,6 +162,37 @@ A comprehensive list of papers about **Large-Language-Diffusion-Models**.
 | [Preference-Based Alignment of Discrete Diffusion Models](https://arxiv.org/abs/2503.08295) | 2025 | Arxiv |
 
 ---
+### Ordering
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions](https://arxiv.org/pdf/2502.06768) | 2025 | ICML |
+
+---
+### Theory
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Theoretical Benefit and Limitation of Diffusion Language Model](https://arxiv.org/abs/2502.09622) | 2025 | NeurIPS |
+
+---
+### Modeling
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+
+---
+### Guidance & Constraints
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Constrained Discrete Diffusion](https://arxiv.org/abs/2503.09790v2) | 2025 | NeurIPS |
+
+---
+### Downstream Applications
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Planning with Diffusion Models for Target-Oriented Dialogue Systems](https://arxiv.org/abs/2504.16858v1) | 2025 | ACL |
+
+
+
+---
 ### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
